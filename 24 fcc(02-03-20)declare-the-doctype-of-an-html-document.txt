@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+  <h1>Texto de teste</h1>
+</html>
+
+<!-- doctype serve pra identificar a versao que vc esta usando para o navegador... html remete a html5. As tags html sempre devem estar no inicio e fim de qualquer codigo q vc escreva -->
